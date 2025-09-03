@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="border-t">
       <div className="container mx-auto max-w-6xl px-4 py-8 text-sm text-muted-foreground">
         <div className="flex flex-col md:flex-row items-center justify-between gap-2">
-          <p>&copy; {new Date().getFullYear()} BookFinder. Built with Skiper UI patterns, Tailwind, and GSAP.</p>
+          <p>&copy; {new Date().getFullYear()} BookFinder. Built with Skiper UI patterns, Tailwind.</p>
           <nav className="flex items-center gap-4">
             <a
               href="https://openlibrary.org/developers/api"
