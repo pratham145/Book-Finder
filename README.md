@@ -1,30 +1,52 @@
-# Book finder React app
+📚 Book Finder – React App
+<p align="center"> <img src="assets/banner.png" alt="Book Finder Banner" width="100%" /> </p> <p align="center"> <a href="https://vercel.com/pratham-rameshwars-projects-4201f81b/v0-book-finder-react-app"> <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" alt="Deployed on Vercel" /> </a> <a href="https://v0.app/chat/projects/uGFFatkfTIq"> <img src="https://img.shields.io/badge/Built%20with-v0.app-blue?style=for-the-badge" alt="Built with v0" /> </a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> </p>
+✨ Overview
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Book Finder is a modern React web app that lets users search books instantly by title, author, or keyword.
+It’s lightweight, fast, and fully responsive — perfect for discovering your next favorite read.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/pratham-rameshwars-projects-4201f81b/v0-book-finder-react-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/uGFFatkfTIq)
+🔗 Live Demo → Book Finder App
 
-## Overview
+⚡ Features
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+✅ Book Search – Search by title, author, or keyword
+✅ Book Details – View author info, descriptions, and more
+✅ Modern UI – Clean, responsive design with TailwindCSS
+✅ Auto Deploy – Synced with v0.app
+ + deployed on Vercel
 
-## Deployment
+🖼️ Screenshots & Demo
+<p align="center"> <img src="assets/home.png" alt="Home Page" width="30%" /> <img src="assets/search.png" alt="Search Results" width="30%" /> <img src="assets/details.png" alt="Book Details" width="30%" /> </p>
 
-Your project is live at:
+🎬 Demo GIF
 
-**[https://vercel.com/pratham-rameshwars-projects-4201f81b/v0-book-finder-react-app](https://vercel.com/pratham-rameshwars-projects-4201f81b/v0-book-finder-react-app)**
+<p align="center"> <img src="assets/demo.gif" alt="App Demo" width="80%" /> </p>
+🛠️ Tech Stack
 
-## Build your app
+⚛ React.js – UI Components
 
-Continue building your app on:
+🎨 TailwindCSS,Skipper UI – Styling
 
-**[https://v0.app/chat/projects/uGFFatkfTIq](https://v0.app/chat/projects/uGFFatkfTIq)**
+▲ Vercel – Deployment
 
-## How It Works
+🤖 v0.app – Auto-sync + builds
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+📂 Local Setup
+
+Clone and run the app locally 👇
+
+# Clone repo
+git clone https://github.com/your-username/book-finder.git
+cd book-finder
+
+# Install dependencies
+npm install
+
+# Run locally
+npm start
+
+
+Build for production:
+
+npm run build
+
