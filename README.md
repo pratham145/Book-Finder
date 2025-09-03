@@ -1,5 +1,9 @@
 📚 Book Finder – React App
-<p align="center"> <img src="banner.png" alt="Book Finder Banner" width="100%" /> </p> <p align="center"> <a href="https://vercel.com/pratham-rameshwars-projects-4201f81b/v0-book-finder-react-app"> <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" alt="Deployed on Vercel" /> </a> <a href="https://v0.app/chat/projects/uGFFatkfTIq"> <img src="https://img.shields.io/badge/Built%20with-v0.app-blue?style=for-the-badge" alt="Built with v0" /> </a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> </p>
+<p align="center"> <img src="banner.png" alt="Book Finder Banner" width="100%" /> </p> <p align="center"> <a href="https://vercel.com/pratham-rameshwars-projects-4201f81b/v0-book-finder-react-app"> <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" alt="Deployed on Vercel" /> </a> <a href="https://v0.app/chat/projects/uGFFatkfTIq"> <img src="https://img.shields.io/badge/Built%20with-v0.app-blue?style=for-the-badge" alt="Built with v0" /> </a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<a href="https://v0-book-finder-react-app.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</p>
 ✨ Overview
 
 Book Finder is a modern React web app that lets users search books instantly by title, author, or keyword.
